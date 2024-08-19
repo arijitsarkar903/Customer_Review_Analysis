@@ -5,6 +5,7 @@ This project leverages SQL to analyze Amazon customer reviews across various pro
 **Dataset**
 
 The dataset used in this project can be found on Kaggle: Amazon Customer Reviews with Sentiment (2013-2019) 
+
 Link: https://www.kaggle.com/datasets/thedevastator/amazon-customer-reviews-with-2013-2019-sentiment
 
 **Project Objective**
