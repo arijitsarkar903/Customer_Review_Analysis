@@ -21,43 +21,43 @@ The primary objective of this project is to extract meaningful insights from cus
 
 **Key Insights**
 
-__Average Product Ratings:_
+__1. Average Product Ratings:_
 
 Calculated the average rating for each product, helping to identify products with consistent customer satisfaction.
 
-_Positive Sentiment Analysis:_
+_2. Positive Sentiment Analysis:_
 
 Recognized the number of positive reviews for each category, offering insights into customer satisfaction across product lines.
 
-_Review Ranking by Category:_
+_3. Review Ranking by Category:_
 
 Ranked reviews within each category by rating, providing a clear view of top-rated feedback.
 
-_Feature Mentions:_
+_4. Feature Mentions:_
 
 Identified reviews mentioning specific features like "battery," helping to understand common customer concerns.
 
-_Top-Rated Products:_
+_5. Top-Rated Products:_
 
 Identified products with an average rating greater than 3, highlighting top-performing products in each category.
 
-_Most Reviewed Categories:_
+_6. Most Reviewed Categories:_
 
 Determined the most reviewed categories, revealing where customer engagement is highest.
 
-_Review Trends Over Time:_
+_7. Review Trends Over Time:_
 
 Analyzed the number of reviews per year, uncovering trends in customer engagement over the six-year period.
 
-_High-Rating Reviews:_
+_8. High-Rating Reviews:_
 
 Found products with ratings greater than 4, emphasizing highly rated products across categories.
 
-_Common Complaints:_
+_9. Common Complaints:_
 
 Identified common complaints across categories, allowing businesses to target specific areas for improvement.
 
-_Recent Reviews:_
+_10. Recent Reviews:_
 
 Displayed the 10 most recent reviews, providing a snapshot of the latest customer feedback.
 
